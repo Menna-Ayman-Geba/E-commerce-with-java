@@ -1,0 +1,9 @@
+com\mycompany\e\commerce\Cart.class
+com\mycompany\e\commerce\Checkout.class
+com\mycompany\e\commerce\Checkout$ShippableItem.class
+com\mycompany\e\commerce\Shipping.class
+com\mycompany\e\commerce\ShippingService.class
+com\mycompany\e\commerce\Product.class
+com\mycompany\e\commerce\CartItem.class
+com\mycompany\e\commerce\ECommerce.class
+com\mycompany\e\commerce\Customer.class
